@@ -1,4 +1,3 @@
 pycompiler
 ==========
-
-Pseudocompilador medio chafa
+Pseudocompilador medio chafa (demasiado u.u)
